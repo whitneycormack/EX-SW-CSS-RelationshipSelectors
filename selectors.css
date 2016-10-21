@@ -1,0 +1,74 @@
+
+body {
+  font-size: 18px;
+}
+
+header { 
+  border: 1px;
+  border-style: solid;
+  border-color: blue;
+ }
+
+nav ul {
+    list-style-type: none;
+    margin: 2px;
+    padding: 3px;
+    background-color: #dddddd;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 8px;
+}
+
+#red { 
+  font: 15px;
+  color: red;
+  }
+
+#blue { 
+  color: blue;
+ }
+
+#blueback {
+  background-color: blue;
+}
+
+#redback { 
+  background-color: red;
+ }
+
+
+a.disabled {
+  color: purple;
+}
+
+.disabled { 
+  color: grey;
+ }
+
+.active {
+  color: yellow;
+}
+
+.promo { 
+  color: gold;
+  font-weight: bold;
+ }
+
+
+input[type=text] {
+  height: 25px;
+}
+
+input[type=tel] {
+  height: 25px;
+}
+
+
+
+
+
+
+
